@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainLab.unity
+    guid: 2e7f6507ca85c974694e410d361ec922
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: d5e67f7633b56114fa2d6f33d8272920, type: 2}
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3485db38160bb5948bab5274612e8534, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 99e8d38a1da5e12438c0c2754894ae3c, type: 2}

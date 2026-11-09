@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: 0de28d66d12140e4e9baaa2298eeb357
+  m_SerializeEntries:
+  - m_GUID: 091454f5d261a6f4aa0345001cd695d4
+    m_Address: Dog_Radius
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e6891c7854f7224fb61c7df259e018c
+    m_Address: Dog_Ulna
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ffbdab486e7fed419893afd07414d7c
+    m_Address: Dog_Scapula
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3bdd7aa13929604d8c967042578e187
+    m_Address: Dog_Humerus
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9856410bbf1d3af41acb239b7998647d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6219ded9de5ed6645b164aa19203e5fd, type: 2}
+    - {fileID: 11400000, guid: 348218a78a4f43a4282dd4002f3e2a0a, type: 2}
+    m_SchemaDisplayOrder:
+    - Default Local Group_ContentUpdateGroupSchema
+    - Default Local Group_BundledAssetGroupSchema
+  m_IncludeInBuild: 1
+  m_IncludeInBuildMigrated: 1

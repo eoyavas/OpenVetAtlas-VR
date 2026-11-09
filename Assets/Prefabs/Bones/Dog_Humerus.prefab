@@ -1,0 +1,985 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &89003217303226611
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5189496712634788569}
+  m_Layer: 0
+  m_Name: tuberculum minus
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5189496712634788569
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 89003217303226611}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: 0.024540253, y: -0.5565023, z: -0.4667232}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &628819312111746689
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4980838711334771773}
+  m_Layer: 0
+  m_Name: epicondylus medialis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4980838711334771773
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 628819312111746689}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: -0.32079676, y: 0.5670644, z: 0.47870532}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &672317771207481972
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 722661413400550824}
+  m_Layer: 0
+  m_Name: crista anconea
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &722661413400550824
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 672317771207481972}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: 0.23699516, y: -0.28821543, z: -0.31128857}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1201556639472965725
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2804334711175386587}
+  m_Layer: 0
+  m_Name: crista tuberculi majoris
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2804334711175386587
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1201556639472965725}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: 0.16487068, y: -0.35199618, z: -0.15999784}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2628141761864934240
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8517347595543590738}
+  m_Layer: 0
+  m_Name: epicondylus lateralis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8517347595543590738
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2628141761864934240}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: -0.12758431, y: 0.62820286, z: 0.4331697}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3102196319423187634
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8920973246581545323}
+  m_Layer: 0
+  m_Name: crista humeri
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8920973246581545323
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3102196319423187634}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: 0.05968975, y: 0.03247858, z: 0.14269242}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3284971626283869176
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6171086029300787924}
+  - component: {fileID: 2834094049081733748}
+  - component: {fileID: 7679112285505976252}
+  - component: {fileID: 6973641500938072579}
+  - component: {fileID: 2121755441106579357}
+  - component: {fileID: 6980912227108217624}
+  - component: {fileID: 3773916545166123640}
+  - component: {fileID: 3674560193287072963}
+  - component: {fileID: 1970166984043868094}
+  m_Layer: 0
+  m_Name: Dog_Humerus
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6171086029300787924
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3284971626283869176}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.005607945, y: -0.29995424, z: 0.935885, w: 0.18470314}
+  m_LocalPosition: {x: -33.518196, y: 8.3151865, z: -8.239748}
+  m_LocalScale: {x: 0.18, y: 0.18, z: 0.18}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 413116206516975254}
+  - {fileID: 8553104201730846898}
+  - {fileID: 722661413400550824}
+  - {fileID: 8920973246581545323}
+  - {fileID: 7634118161951002769}
+  - {fileID: 2804334711175386587}
+  - {fileID: 8517347595543590738}
+  - {fileID: 4980838711334771773}
+  - {fileID: 5450372907403939445}
+  - {fileID: 6582516721900370733}
+  - {fileID: 9003674334687760823}
+  - {fileID: 7614203099696067019}
+  - {fileID: 2078574344425680803}
+  - {fileID: 8898421225103615118}
+  - {fileID: 5189496712634788569}
+  - {fileID: 5206149917032234936}
+  - {fileID: 8917581449787286187}
+  - {fileID: 8386016484511994834}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &2834094049081733748
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3284971626283869176}
+  m_Mesh: {fileID: 4627482311471660738, guid: 6a26954448fd7704e968d47034050765, type: 3}
+--- !u!23 &7679112285505976252
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3284971626283869176}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 4ea06a5b6f5a6ea4a8fbbd8d8475bd44, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_MaskInteraction: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &6973641500938072579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3284971626283869176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffc20c19756902f41a345627d7128787, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AnatomiVR.Bones.BoneAnatomicalLabels
+  landmarks:
+  - labelText: capitulum humeri
+    anchorLocalPos: {x: -0.06102835, y: 0.5191464, z: 0.5840708}
+    labelLocalPos: {x: -0.07478652, y: 0.7294621, z: 0.824857}
+    prebakedOutwardNormal: {x: 0.5701176, y: -0.45411357, z: 0.6846509}
+  - labelText: caput humeri
+    anchorLocalPos: {x: 0.03687996, y: -0.41250262, z: -0.60055625}
+    labelLocalPos: {x: 0.06431381, y: -0.5968407, z: -0.8606848}
+    prebakedOutwardNormal: {x: -0.018159162, y: -0.3207442, z: -0.94699174}
+  - labelText: crista anconea
+    anchorLocalPos: {x: 0.23699518, y: -0.28821555, z: -0.31128857}
+    labelLocalPos: {x: 0.39635772, y: -0.4792077, z: -0.51259816}
+    prebakedOutwardNormal: {x: 0.57615566, y: 0.78169143, z: -0.23875323}
+  - labelText: crista humeri
+    anchorLocalPos: {x: 0.059689734, y: 0.032478582, z: 0.14269242}
+    labelLocalPos: {x: 0.2521661, y: 0.036419913, z: 0.39830408}
+    prebakedOutwardNormal: {x: 0.6314817, y: -0.19950008, z: 0.7492867}
+  - labelText: crista supracondylaris lateralis
+    anchorLocalPos: {x: -0.12331479, y: 0.39323142, z: 0.2221288}
+    labelLocalPos: {x: -0.19454041, y: 0.66725385, z: 0.37125495}
+    prebakedOutwardNormal: {x: -0.17086317, y: 0.5094759, z: -0.84335047}
+  - labelText: crista tuberculi majoris
+    anchorLocalPos: {x: 0.1648707, y: -0.3519962, z: -0.1599978}
+    labelLocalPos: {x: 0.29773325, y: -0.61413807, z: -0.28660423}
+    prebakedOutwardNormal: {x: 0.062260177, y: -0.66665083, z: 0.74276537}
+  - labelText: epicondylus lateralis
+    anchorLocalPos: {x: -0.12758434, y: 0.6282029, z: 0.43316972}
+    labelLocalPos: {x: -0.17074238, y: 0.889988, z: 0.6120718}
+    prebakedOutwardNormal: {x: -0.08140272, y: 0.8554025, z: -0.5115272}
+  - labelText: epicondylus medialis
+    anchorLocalPos: {x: -0.32079685, y: 0.5670644, z: 0.47870532}
+    labelLocalPos: {x: -0.44349527, y: 0.79267466, z: 0.6696113}
+    prebakedOutwardNormal: {x: -0.6986695, y: 0.4037836, z: -0.59060967}
+  - labelText: facies m. infraspinati
+    anchorLocalPos: {x: 0.2781824, y: -0.43606302, z: -0.4505222}
+    labelLocalPos: {x: 0.41220725, y: -0.63964796, z: -0.65786374}
+    prebakedOutwardNormal: {x: 0.8404631, y: 0.28115934, z: -0.46321842}
+  - labelText: foramen supratrochleare
+    anchorLocalPos: {x: -0.15009686, y: 0.49727535, z: 0.44044882}
+    labelLocalPos: {x: -0.21094173, y: 0.7318666, z: 0.6494101}
+    prebakedOutwardNormal: {x: 0.21999966, y: 0.9752047, z: -0.024000604}
+  - labelText: sulcus intertubercularis
+    anchorLocalPos: {x: 0.14319809, y: -0.5179564, z: -0.40622038}
+    labelLocalPos: {x: 0.21990761, y: -0.7622465, z: -0.59815264}
+    prebakedOutwardNormal: {x: -0.32766056, y: -0.9378562, z: 0.114299126}
+  - labelText: sulcus m. brachialis
+    anchorLocalPos: {x: 0.07138765, y: 0.06857468, z: 0.07894928}
+    labelLocalPos: {x: 0.33872244, y: 0.1694662, z: 0.2230083}
+    prebakedOutwardNormal: {x: 0.8615185, y: 0.5059832, z: -0.042033553}
+  - labelText: trochlea humeri
+    anchorLocalPos: {x: -0.16318898, y: 0.44523373, z: 0.63382626}
+    labelLocalPos: {x: -0.22050072, y: 0.6223933, z: 0.8940759}
+    prebakedOutwardNormal: {x: 0.74881583, y: -0.05671767, z: 0.6603469}
+  - labelText: tubeculum majoris
+    anchorLocalPos: {x: 0.25545198, y: -0.56741214, z: -0.4750083}
+    labelLocalPos: {x: 0.36518285, y: -0.79806685, z: -0.6677712}
+    prebakedOutwardNormal: {x: 0.7783258, y: -0.6266375, z: -0.039170686}
+  - labelText: tuberculum minus
+    anchorLocalPos: {x: 0.024540273, y: -0.55650234, z: -0.46672317}
+    labelLocalPos: {x: 0.04689023, y: -0.8012741, z: -0.67163104}
+    prebakedOutwardNormal: {x: -0.15149221, y: -0.98690987, z: -0.05530776}
+  - labelText: tuberositas deltoidea
+    anchorLocalPos: {x: 0.21824193, y: -0.13038798, z: -0.09651822}
+    labelLocalPos: {x: 0.4662568, y: -0.2918926, z: -0.21819352}
+    prebakedOutwardNormal: {x: 0.89373314, y: 0.4236736, z: -0.14745095}
+  - labelText: tuberositas teres major
+    anchorLocalPos: {x: 0.029195264, y: -0.26647735, z: -0.134646}
+    labelLocalPos: {x: 0.0836806, y: -0.54432356, z: -0.28375268}
+    prebakedOutwardNormal: {x: -0.75570107, y: -0.53483164, z: 0.3779828}
+  - labelText: tuberositas teres minor
+    anchorLocalPos: {x: 0.23030123, y: -0.3149063, z: -0.41953453}
+    labelLocalPos: {x: 0.36421767, y: -0.49332458, z: -0.64895403}
+    prebakedOutwardNormal: {x: 0.64641064, y: 0.7151529, z: -0.26591298}
+  lineWidth: 0.0022
+  pinDotSize: 0.0085
+  labelWorldScale: 0.00042
+  hologramCyan: {r: 0, g: 0.9, b: 1, a: 0.96}
+  hoverDotColor: {r: 1, g: 0.92, b: 0.22, a: 1}
+  expandedDotColor: {r: 0.18, g: 1, b: 0.58, a: 1}
+  cardBgColor: {r: 0.02, g: 0.07, b: 0.14, a: 0.95}
+  showGizmosInEditor: 1
+--- !u!54 &2121755441106579357
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3284971626283869176}
+  serializedVersion: 5
+  m_Mass: 0.5
+  m_LinearDamping: 0.6
+  m_AngularDamping: 2.5
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 1
+  m_Constraints: 0
+  m_CollisionDetection: 2
+--- !u!64 &6980912227108217624
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3284971626283869176}
+  m_Material: {fileID: 13400000, guid: ea4752e669de1d749b2323b91c464c27, type: 2}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4627482311471660738, guid: 6a26954448fd7704e968d47034050765, type: 3}
+--- !u!65 &3773916545166123640
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3284971626283869176}
+  m_Material: {fileID: 13400000, guid: ea4752e669de1d749b2323b91c464c27, type: 2}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.20304881, y: 0.39614302, z: 0.4056154}
+  m_Center: {x: -0.029073223, y: 0.030660987, z: 0.024813801}
+--- !u!114 &3674560193287072963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3284971626283869176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad34abafad169848a38072baa96cdb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.XR.Interaction.Toolkit::UnityEngine.XR.Interaction.Toolkit.Interactables.XRGrabInteractable
+  m_InteractionManager: {fileID: 0}
+  m_Colliders:
+  - {fileID: 6980912227108217624}
+  - {fileID: 3773916545166123640}
+  m_InteractionLayers:
+    m_Bits: 1
+  m_DistanceCalculationMode: 1
+  m_SelectMode: 0
+  m_FocusMode: 1
+  m_CustomReticle: {fileID: 0}
+  m_AllowGazeInteraction: 0
+  m_AllowGazeSelect: 0
+  m_OverrideGazeTimeToSelect: 0
+  m_GazeTimeToSelect: 0.5
+  m_OverrideTimeToAutoDeselectGaze: 0
+  m_TimeToAutoDeselectGaze: 3
+  m_AllowGazeAssistance: 0
+  m_FirstHoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastHoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_HoverEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_HoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FirstSelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastSelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_SelectExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FirstFocusEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastFocusExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FocusEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FocusExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Activated:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Deactivated:
+    m_PersistentCalls:
+      m_Calls: []
+  m_StartingHoverFilters: []
+  m_StartingSelectFilters: []
+  m_StartingInteractionStrengthFilters: []
+  m_AutoFindParentInteractableInHierarchy: 0
+  m_ParentInteractableObject: {fileID: 0}
+  m_AttachTransform: {fileID: 0}
+  m_SecondaryAttachTransform: {fileID: 0}
+  m_UseDynamicAttach: 1
+  m_MatchAttachPosition: 1
+  m_MatchAttachRotation: 1
+  m_SnapToColliderVolume: 1
+  m_ReinitializeDynamicAttachEverySingleGrab: 1
+  m_AttachEaseInTime: 0.15
+  m_MovementType: 0
+  m_PredictedVisualsTransform: {fileID: 0}
+  m_VelocityDamping: 1
+  m_VelocityScale: 0.65
+  m_AngularVelocityDamping: 1
+  m_AngularVelocityScale: 0.65
+  m_TrackPosition: 1
+  m_SmoothPosition: 1
+  m_SmoothPositionAmount: 16
+  m_TightenPosition: 0
+  m_TrackRotation: 1
+  m_SmoothRotation: 1
+  m_SmoothRotationAmount: 14
+  m_TightenRotation: 0
+  m_TrackScale: 1
+  m_SmoothScale: 0
+  m_SmoothScaleAmount: 8
+  m_TightenScale: 0.1
+  m_ThrowOnDetach: 1
+  m_ThrowSmoothingDuration: 0.25
+  m_ThrowSmoothingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_ThrowVelocityScale: 1.5
+  m_ThrowAngularVelocityScale: 1
+  m_ForceGravityOnDetach: 0
+  m_UnparentTransformOnGrab: 1
+  m_RetainTransformParent: 1
+  m_StartingSingleGrabTransformers: []
+  m_StartingMultipleGrabTransformers: []
+  m_AddDefaultGrabTransformers: 1
+  m_FarAttachMode: 0
+  m_LimitLinearVelocity: 0
+  m_LimitAngularVelocity: 0
+  m_MaxLinearVelocityDelta: 10
+  m_MaxAngularVelocityDelta: 20
+--- !u!114 &1970166984043868094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3284971626283869176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66cabc26c2f7f5a4b9da429db7174cca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AnatomiVR.Bones.BoneIdentifier
+  addressableKey: Dog_Humerus
+  displayNameTR: Humerus
+  joystickRotateSpeed: 135
+  buttonRotateSpeed: 90
+--- !u!1 &3545598858380031457
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 413116206516975254}
+  m_Layer: 0
+  m_Name: capitulum humeri
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &413116206516975254
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3545598858380031457}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: -0.061028328, y: 0.5191463, z: 0.58407086}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3589735481902350473
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8917581449787286187}
+  m_Layer: 0
+  m_Name: tuberositas teres major
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8917581449787286187
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3589735481902350473}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: 0.029195251, y: -0.2664773, z: -0.134646}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4027414656133589013
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5206149917032234936}
+  m_Layer: 0
+  m_Name: tuberositas deltoidea
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5206149917032234936
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4027414656133589013}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: 0.21824187, y: -0.13038795, z: -0.09651821}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4639710718511368619
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5450372907403939445}
+  m_Layer: 0
+  m_Name: facies m. infraspinati
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5450372907403939445
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4639710718511368619}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: 0.27818233, y: -0.43606293, z: -0.4505222}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4788278411906752640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8898421225103615118}
+  m_Layer: 0
+  m_Name: tubeculum majoris
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8898421225103615118
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4788278411906752640}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: 0.25545195, y: -0.56741196, z: -0.4750083}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5131556015349029519
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7634118161951002769}
+  m_Layer: 0
+  m_Name: crista supracondylaris lateralis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7634118161951002769
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5131556015349029519}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: -0.123314776, y: 0.39323133, z: 0.22212882}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6176087550892583309
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9003674334687760823}
+  m_Layer: 0
+  m_Name: sulcus intertubercularis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9003674334687760823
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6176087550892583309}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: 0.14319803, y: -0.5179562, z: -0.40622032}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6249604323327202190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8553104201730846898}
+  m_Layer: 0
+  m_Name: caput humeri
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8553104201730846898
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6249604323327202190}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: 0.036879957, y: -0.4125026, z: -0.6005563}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6889519077059560578
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2078574344425680803}
+  m_Layer: 0
+  m_Name: trochlea humeri
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2078574344425680803
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6889519077059560578}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: -0.16318893, y: 0.44523376, z: 0.63382626}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7161891900858801437
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7614203099696067019}
+  m_Layer: 0
+  m_Name: sulcus m. brachialis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7614203099696067019
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7161891900858801437}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: 0.07138763, y: 0.068574674, z: 0.07894928}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8155734106622073297
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8386016484511994834}
+  m_Layer: 0
+  m_Name: tuberositas teres minor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8386016484511994834
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8155734106622073297}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: 0.23030119, y: -0.31490624, z: -0.41953447}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8323913053863631128
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6582516721900370733}
+  m_Layer: 0
+  m_Name: foramen supratrochleare
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6582516721900370733
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8323913053863631128}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.12663946, y: 0.8738704, z: -0.44967097, w: 0.13457029}
+  m_LocalPosition: {x: -0.15009685, y: 0.49727514, z: 0.44044882}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6171086029300787924}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

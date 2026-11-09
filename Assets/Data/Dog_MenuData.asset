@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a048fdae2b63e0a4bac6dcfe41323637, type: 3}
+  m_Name: Dog_MenuData
+  m_EditorClassIdentifier: Assembly-CSharp::AnatomiVR.Data.MenuData
+  animals:
+  - displayName: Canis
+    animalCode: Dog
+    isLocked: 0
+    icon: {fileID: 0}
+    systems:
+    - displayName: Systema Skeletale
+      isLocked: 0
+      regions:
+      - displayName: Ossa Membri Thoracici
+        isLocked: 0
+        bones:
+        - displayName: Scapula
+          addressableKey: Dog_Scapula
+          isLocked: 0
+          thumbnail: {fileID: 0}
+        - displayName: Humerus
+          addressableKey: Dog_Humerus
+          isLocked: 0
+          thumbnail: {fileID: 0}
+        - displayName: Radius
+          addressableKey: Dog_Radius
+          isLocked: 0
+          thumbnail: {fileID: 0}
+        - displayName: Ulna
+          addressableKey: Dog_Ulna
+          isLocked: 0
+          thumbnail: {fileID: 0}
+        - displayName: Carpal
+          addressableKey: Dog_Carpal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Metacarpal
+          addressableKey: Dog_Metacarpal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Phalanx
+          addressableKey: Dog_Phalanx
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Ossa Membri Pelvini
+        isLocked: 1
+        bones:
+        - displayName: Coxae
+          addressableKey: Dog_Coxae
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Femur
+          addressableKey: Dog_Femur
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Tibia
+          addressableKey: Dog_Tibia
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Fibula
+          addressableKey: Dog_Fibula
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Tarsal
+          addressableKey: Dog_Tarsal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Metatarsal
+          addressableKey: Dog_Metatarsal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Phalanx
+          addressableKey: Dog_Pelvini_Phalanx
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Columna Vertebralis
+        isLocked: 1
+        bones:
+        - displayName: Cervical
+          addressableKey: Dog_Cervical
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Throcal
+          addressableKey: Dog_Throcal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Lumbal
+          addressableKey: Dog_Lumbal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Sacrum
+          addressableKey: Dog_Sacrum
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Caudal
+          addressableKey: Dog_Caudal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Skeleton Thoracis
+        isLocked: 1
+        bones:
+        - displayName: Costae
+          addressableKey: Dog_Costae
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Sternum
+          addressableKey: Dog_Sternum
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Skeleton Axiale
+        isLocked: 1
+        bones:
+        - displayName: Cranium
+          addressableKey: Dog_Cranium
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Mandibula
+          addressableKey: Dog_Mandibula
+          isLocked: 1
+          thumbnail: {fileID: 0}
+    - displayName: Systema Musculare
+      isLocked: 1
+      regions: []
+    - displayName: Systema Respiratorium
+      isLocked: 1
+      regions: []
+    - displayName: Systema Digestorium
+      isLocked: 1
+      regions: []
+    - displayName: Systema Urogenitale
+      isLocked: 1
+      regions: []
+    - displayName: Systema Vasorum
+      isLocked: 1
+      regions: []
+    - displayName: Systema Nervosum
+      isLocked: 1
+      regions: []

@@ -1,0 +1,547 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a048fdae2b63e0a4bac6dcfe41323637, type: 3}
+  m_Name: AnatomyMenu_All
+  m_EditorClassIdentifier: Assembly-CSharp::AnatomiVR.Data.MenuData
+  animals:
+  - displayName: Canis
+    animalCode: Dog
+    isLocked: 0
+    icon: {fileID: 0}
+    systems:
+    - displayName: Systema Skeletale
+      isLocked: 0
+      regions:
+      - displayName: Ossa Membri Thoracici
+        isLocked: 0
+        bones:
+        - displayName: Scapula
+          addressableKey: Dog_Scapula
+          isLocked: 0
+          thumbnail: {fileID: 0}
+        - displayName: Humerus
+          addressableKey: Dog_Humerus
+          isLocked: 0
+          thumbnail: {fileID: 0}
+        - displayName: Radius
+          addressableKey: Dog_Radius
+          isLocked: 0
+          thumbnail: {fileID: 0}
+        - displayName: Ulna
+          addressableKey: Dog_Ulna
+          isLocked: 0
+          thumbnail: {fileID: 0}
+        - displayName: Carpal
+          addressableKey: Dog_Carpal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Metacarpal
+          addressableKey: Dog_Metacarpal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Phalanx
+          addressableKey: Dog_Phalanx
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Ossa Membri Pelvini
+        isLocked: 1
+        bones:
+        - displayName: Coxae
+          addressableKey: Dog_Coxae
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Femur
+          addressableKey: Dog_Femur
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Tibia
+          addressableKey: Dog_Tibia
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Fibula
+          addressableKey: Dog_Fibula
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Tarsal
+          addressableKey: Dog_Tarsal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Metatarsal
+          addressableKey: Dog_Metatarsal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Phalanx
+          addressableKey: Dog_Pelvini_Phalanx
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Columna Vertebralis
+        isLocked: 1
+        bones:
+        - displayName: Cervical
+          addressableKey: Dog_Cervical
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Throcal
+          addressableKey: Dog_Throcal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Lumbal
+          addressableKey: Dog_Lumbal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Sacrum
+          addressableKey: Dog_Sacrum
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Caudal
+          addressableKey: Dog_Caudal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Skeleton Thoracis
+        isLocked: 1
+        bones:
+        - displayName: Costae
+          addressableKey: Dog_Costae
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Sternum
+          addressableKey: Dog_Sternum
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Skeleton Axiale
+        isLocked: 1
+        bones:
+        - displayName: Cranium
+          addressableKey: Dog_Cranium
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Mandibula
+          addressableKey: Dog_Mandibula
+          isLocked: 1
+          thumbnail: {fileID: 0}
+    - displayName: Systema Musculare
+      isLocked: 1
+      regions: []
+    - displayName: Systema Respiratorium
+      isLocked: 1
+      regions: []
+    - displayName: Systema Digestorium
+      isLocked: 1
+      regions: []
+    - displayName: Systema Urogenitale
+      isLocked: 1
+      regions: []
+    - displayName: Systema Vasorum
+      isLocked: 1
+      regions: []
+    - displayName: Systema Nervosum
+      isLocked: 1
+      regions: []
+  - displayName: Equide
+    animalCode: Horse
+    isLocked: 1
+    icon: {fileID: 0}
+    systems:
+    - displayName: Systema Skeletale
+      isLocked: 1
+      regions:
+      - displayName: Ossa Membri Thoracici
+        isLocked: 1
+        bones:
+        - displayName: Scapula
+          addressableKey: Horse_Scapula
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Humerus
+          addressableKey: Horse_Humerus
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Radius
+          addressableKey: Horse_Radius
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Ulna
+          addressableKey: Horse_Ulna
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Carpal
+          addressableKey: Horse_Carpal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Metacarpal
+          addressableKey: Horse_Metacarpal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Phalanx
+          addressableKey: Horse_Phalanx
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Ossa Membri Pelvini
+        isLocked: 1
+        bones:
+        - displayName: Coxae
+          addressableKey: Horse_Coxae
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Femur
+          addressableKey: Horse_Femur
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Tibia
+          addressableKey: Horse_Tibia
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Fibula
+          addressableKey: Horse_Fibula
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Tarsal
+          addressableKey: Horse_Tarsal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Metatarsal
+          addressableKey: Horse_Metatarsal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Phalanx
+          addressableKey: Horse_Pelvini_Phalanx
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Columna Vertebralis
+        isLocked: 1
+        bones:
+        - displayName: Cervical
+          addressableKey: Horse_Cervical
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Throcal
+          addressableKey: Horse_Throcal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Lumbal
+          addressableKey: Horse_Lumbal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Sacrum
+          addressableKey: Horse_Sacrum
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Caudal
+          addressableKey: Horse_Caudal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Skeleton Thoracis
+        isLocked: 1
+        bones:
+        - displayName: Costae
+          addressableKey: Horse_Costae
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Sternum
+          addressableKey: Horse_Sternum
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Skeleton Axiale
+        isLocked: 1
+        bones:
+        - displayName: Cranium
+          addressableKey: Horse_Cranium
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Mandibula
+          addressableKey: Horse_Mandibula
+          isLocked: 1
+          thumbnail: {fileID: 0}
+    - displayName: Systema Musculare
+      isLocked: 1
+      regions: []
+    - displayName: Systema Respiratorium
+      isLocked: 1
+      regions: []
+    - displayName: Systema Digestorium
+      isLocked: 1
+      regions: []
+    - displayName: Systema Urogenitale
+      isLocked: 1
+      regions: []
+    - displayName: Systema Vasorum
+      isLocked: 1
+      regions: []
+    - displayName: Systema Nervosum
+      isLocked: 1
+      regions: []
+  - displayName: Ruminant
+    animalCode: Cow
+    isLocked: 1
+    icon: {fileID: 0}
+    systems:
+    - displayName: Systema Skeletale
+      isLocked: 1
+      regions:
+      - displayName: Ossa Membri Thoracici
+        isLocked: 1
+        bones:
+        - displayName: Scapula
+          addressableKey: Cow_Scapula
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Humerus
+          addressableKey: Cow_Humerus
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Radius
+          addressableKey: Cow_Radius
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Ulna
+          addressableKey: Cow_Ulna
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Carpal
+          addressableKey: Cow_Carpal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Metacarpal
+          addressableKey: Cow_Metacarpal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Phalanx
+          addressableKey: Cow_Phalanx
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Ossa Membri Pelvini
+        isLocked: 1
+        bones:
+        - displayName: Coxae
+          addressableKey: Cow_Coxae
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Femur
+          addressableKey: Cow_Femur
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Tibia
+          addressableKey: Cow_Tibia
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Fibula
+          addressableKey: Cow_Fibula
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Tarsal
+          addressableKey: Cow_Tarsal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Metatarsal
+          addressableKey: Cow_Metatarsal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Phalanx
+          addressableKey: Cow_Pelvini_Phalanx
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Columna Vertebralis
+        isLocked: 1
+        bones:
+        - displayName: Cervical
+          addressableKey: Cow_Cervical
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Throcal
+          addressableKey: Cow_Throcal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Lumbal
+          addressableKey: Cow_Lumbal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Sacrum
+          addressableKey: Cow_Sacrum
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Caudal
+          addressableKey: Cow_Caudal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Skeleton Thoracis
+        isLocked: 1
+        bones:
+        - displayName: Costae
+          addressableKey: Cow_Costae
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Sternum
+          addressableKey: Cow_Sternum
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Skeleton Axiale
+        isLocked: 1
+        bones:
+        - displayName: Cranium
+          addressableKey: Cow_Cranium
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Mandibula
+          addressableKey: Cow_Mandibula
+          isLocked: 1
+          thumbnail: {fileID: 0}
+    - displayName: Systema Musculare
+      isLocked: 1
+      regions: []
+    - displayName: Systema Respiratorium
+      isLocked: 1
+      regions: []
+    - displayName: Systema Digestorium
+      isLocked: 1
+      regions: []
+    - displayName: Systema Urogenitale
+      isLocked: 1
+      regions: []
+    - displayName: Systema Vasorum
+      isLocked: 1
+      regions: []
+    - displayName: Systema Nervosum
+      isLocked: 1
+      regions: []
+  - displayName: Sus
+    animalCode: Pig
+    isLocked: 1
+    icon: {fileID: 0}
+    systems:
+    - displayName: Systema Skeletale
+      isLocked: 1
+      regions:
+      - displayName: Ossa Membri Thoracici
+        isLocked: 1
+        bones:
+        - displayName: Scapula
+          addressableKey: Pig_Scapula
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Humerus
+          addressableKey: Pig_Humerus
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Radius
+          addressableKey: Pig_Radius
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Ulna
+          addressableKey: Pig_Ulna
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Carpal
+          addressableKey: Pig_Carpal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Metacarpal
+          addressableKey: Pig_Metacarpal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Phalanx
+          addressableKey: Pig_Phalanx
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Ossa Membri Pelvini
+        isLocked: 1
+        bones:
+        - displayName: Coxae
+          addressableKey: Pig_Coxae
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Femur
+          addressableKey: Pig_Femur
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Tibia
+          addressableKey: Pig_Tibia
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Fibula
+          addressableKey: Pig_Fibula
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Tarsal
+          addressableKey: Pig_Tarsal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Metatarsal
+          addressableKey: Pig_Metatarsal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Phalanx
+          addressableKey: Pig_Pelvini_Phalanx
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Columna Vertebralis
+        isLocked: 1
+        bones:
+        - displayName: Cervical
+          addressableKey: Pig_Cervical
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Throcal
+          addressableKey: Pig_Throcal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Lumbal
+          addressableKey: Pig_Lumbal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Sacrum
+          addressableKey: Pig_Sacrum
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Caudal
+          addressableKey: Pig_Caudal
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Skeleton Thoracis
+        isLocked: 1
+        bones:
+        - displayName: Costae
+          addressableKey: Pig_Costae
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Sternum
+          addressableKey: Pig_Sternum
+          isLocked: 1
+          thumbnail: {fileID: 0}
+      - displayName: Skeleton Axiale
+        isLocked: 1
+        bones:
+        - displayName: Cranium
+          addressableKey: Pig_Cranium
+          isLocked: 1
+          thumbnail: {fileID: 0}
+        - displayName: Mandibula
+          addressableKey: Pig_Mandibula
+          isLocked: 1
+          thumbnail: {fileID: 0}
+    - displayName: Systema Musculare
+      isLocked: 1
+      regions: []
+    - displayName: Systema Respiratorium
+      isLocked: 1
+      regions: []
+    - displayName: Systema Digestorium
+      isLocked: 1
+      regions: []
+    - displayName: Systema Urogenitale
+      isLocked: 1
+      regions: []
+    - displayName: Systema Vasorum
+      isLocked: 1
+      regions: []
+    - displayName: Systema Nervosum
+      isLocked: 1
+      regions: []
