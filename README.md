@@ -18,6 +18,43 @@
 
 ---
 
+## 📸 In-App Screenshots / Uygulama İçi Görseller
+
+<p align="center">
+  <img src="Screenshots/03_3D_Anatomical_Pins_Humerus.jpg" alt="3D Holographic Anatomical Landmarks on Canine Humerus" width="88%"/>
+  <br/>
+  <i><b>3D Holographic Anatomical Landmarks (Pin System):</b> Interactive camera-facing Latin anatomical label cards (Caput humeri, Sulcus m. brachialis, Crista supracondylaris lateralis) on a canine humerus suspended in mid-air.</i>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="Screenshots/01_SmartScreen_Menu.jpg" alt="Smart Screen Menu & Bilingual UI" width="100%"/><br/>
+      <b>Smart Screen UI & Bilingual Switch (<code>[ TR | EN ]</code>)</b><br/>
+      <i>Akıllı Menü (Canis // Ossa Membri Thoracici) ve Dil Geçişi</i>
+    </td>
+    <td align="center" width="50%">
+      <img src="Screenshots/02_Floating_Tutorial_Tablet.jpg" alt="Floating 3D Grabbable Tutorial Tablet" width="100%"/><br/>
+      <b>Floating 3D Grabbable Tutorial Tablet</b><br/>
+      <i>Havada Asılı Duran ve Grip Tuşuyla Taşınabilen 3B Rehber Tableti</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Screenshots/04_ZeroG_Bone_Inspection_Scapula.jpg" alt="360-Degree Zero-G Bone Inspection" width="100%"/><br/>
+      <b>360° Zero-G Mid-Air Specimen Inspection (<i>Scapula</i>)</b><br/>
+      <i>Havada Asılı Kalma (Zero-G) ve 360° Yakın İnceleme</i>
+    </td>
+    <td align="center" width="50%">
+      <img src="Screenshots/05_Dissection_Table_Overview.jpg" alt="Dissection Table & Laboratory Overview" width="100%"/><br/>
+      <b>Dissection Table, Laser Interaction & Guide Tablet</b><br/>
+      <i>Diseksiyon Masası, Lazer Etkileşimi ve Akıllı Ekran</i>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🌐 English
 
 **Open-Source Virtual Reality Veterinary Anatomy and Osteology Platform for Meta Quest (Unity / URP)**
