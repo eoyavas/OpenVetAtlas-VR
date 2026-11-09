@@ -60,7 +60,7 @@ The software architecture and source code of this project are open-sourced under
 **However;** **all 3D anatomical models (`.fbx`, `.obj`, etc.) and textures** included in this project were produced within DijiLab and are protected under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)** license. These 3D models can in no way be **used for commercial purposes, sold, or integrated into a closed-source commercial product.**
 
 ---
-*Developers:* Eren Özgürcan Yavaş, Fatih Gürler, Halil İbrahim Efe Özcan
+*Developers:* Eren Özgürcan Yavaş, Fatih Gürler, Halilibrahimefe Özcan
 
 ---
 
@@ -106,4 +106,4 @@ Bu projenin yazılım mimarisi ve kaynak kodları **GNU Affero General Public Li
 **Ancak;** proje içerisinde yer alan **tüm 3D anatomik modeller (`.fbx`, `.obj` vb.) ve kaplamalar (textures)** DijiLab bünyesinde üretilmiş olup, **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)** lisansı ile korunmaktadır. Bu 3D modeller hiçbir şekilde **ticari amaçla kullanılamaz, satılamaz veya kapalı kaynaklı ticari bir ürüne entegre edilemez.**
 
 ---
-*Geliştirici:* Eren Özgürcan Yavaş, Fatih Gürler, Halil İbrahim Efe Özcan
+*Geliştirici:* Eren Özgürcan Yavaş, Fatih Gürler, Halilibrahimefe Özcan
