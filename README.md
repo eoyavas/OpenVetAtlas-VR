@@ -12,7 +12,7 @@ OpenVetAtlas VR (oVa) is an open-source, virtual reality (VR) based anatomy plat
 ## License & Copyright (IMPORTANT)
 The software architecture and source code of this project are open-sourced under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. 
 
-**However;** **all 3D anatomical models (.fbx, .obj, etc.) and textures** included in this project were produced within DijiLab and are protected under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)** license. These 3D models **cannot be used for commercial purposes, sold, or integrated into closed-source commercial products under any circumstances.**
+**However;** **all 3D anatomical models (.fbx, .obj, etc.) and textures** included in this project were produced within ADU DijiLab and are protected under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)** license. These 3D models **cannot be used for commercial purposes, sold, or integrated into closed-source commercial products under any circumstances.**
 
 ---
 *Developer:* Eren Özgürcan Yavaş, Fatih Gürler, Halilibrahimefe Özcan
@@ -29,7 +29,7 @@ OpenVetAtlas VR (oVa), veteriner hekimliği eğitiminde üç boyutlu uzaysal ö�
 ## Lisans ve Telif Hakları (ÖNEMLİ)
 Bu projenin yazılım mimarisi ve kaynak kodları **GNU Affero General Public License v3.0 (AGPL-3.0)** ile açık kaynak olarak lisanslanmıştır. 
 
-**Ancak;** proje içerisinde yer alan **tüm 3D anatomik modeller (.fbx, .obj vb.) ve kaplamalar (textures)** DijiLab bünyesinde üretilmiş olup, **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)** lisansı ile korunmaktadır. Bu 3D modeller hiçbir şekilde **ticari amaçla kullanılamaz, satılamaz veya kapalı kaynaklı ticari bir ürüne entegre edilemez.**
+**Ancak;** proje içerisinde yer alan **tüm 3D anatomik modeller (.fbx, .obj vb.) ve kaplamalar (textures)** ADÜ DijiLab bünyesinde üretilmiş olup, **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)** lisansı ile korunmaktadır. Bu 3D modeller hiçbir şekilde **ticari amaçla kullanılamaz, satılamaz veya kapalı kaynaklı ticari bir ürüne entegre edilemez.**
 
 ---
 *Geliştirici:* Eren Özgürcan Yavaş, Fatih Gürler, Halilibrahimefe Özcan
