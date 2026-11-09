@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use OpenVetAtlas VR in your research, education, or academic work, please cite it using the metadata below."
+type: software
+title: "OpenVetAtlas VR (oVa): Open-Source Virtual Reality Veterinary Anatomy and Osteology Platform"
+abstract: "OpenVetAtlas VR (oVa) is an open-source virtual reality (VR) anatomy and osteology platform developed for Meta Quest devices using Unity (URP) to support three-dimensional learning in veterinary medical education, utilizing 3D digital twins scanned at DijiLab."
+authors:
+  - given-names: "Eren Özgürcan"
+    family-names: "Yavaş"
+    email: "eoyavas@gmail.com"
+    affiliation: "Aydın Adnan Menderes Üniversitesi, Veteriner Fakültesi, Veterinerlik Anatomisi Anabilim Dalı"
+    orcid: "https://orcid.org/0000-0003-0162-8150"
+  - given-names: "Fatih"
+    family-names: "Gürler"
+    affiliation: "Aydın Adnan Menderes Üniversitesi, Veteriner Fakültesi, Veterinerlik Anatomisi Anabilim Dalı"
+  - given-names: "Halilibrahimefe"
+    family-names: "Özcan"
+    affiliation: "Aydın Adnan Menderes Üniversitesi, Veteriner Fakültesi, Veterinerlik Anatomisi Anabilim Dalı"
+repository-code: "https://github.com/eoyavas/OpenVetAtlas-VR"
+url: "https://github.com/eoyavas/OpenVetAtlas-VR"
+license: AGPL-3.0
+version: "0.2.0-beta"
+date-released: "2026-11-09"
+keywords:
+  - "veterinary anatomy"
+  - "osteology"
+  - "virtual reality"
+  - "meta quest"
+  - "unity"
+  - "3d digital twins"
+  - "veterinary education"

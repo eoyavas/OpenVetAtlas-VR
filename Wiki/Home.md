@@ -46,6 +46,6 @@ Welcome to the official documentation and developer wiki for **OpenVetAtlas VR (
 ## 👥 Project Team / Proje Ekibi
 * **Eren Özgürcan Yavaş**
 * **Fatih Gürler**
-* **Halil İbrahim Efe Özcan**
+* **Halilibrahimefe Özcan**
 
 *Institution / Kurum:* Aydın Adnan Menderes Üniversitesi, Veteriner Fakültesi, Anatomi Anabilim Dalı — **DijiLab**
